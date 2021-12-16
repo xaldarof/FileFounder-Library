@@ -39,8 +39,8 @@ afterEvaluate {
                 from components.release
 
                 groupId = 'com.github.xaldarof'
-                artifactId = 'file.founder'
-                version = '1.0.0'
+                artifactId = 'file.founder.src'
+                version = '5.0.0'
             }
         }
     }
